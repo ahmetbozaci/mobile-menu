@@ -246,20 +246,16 @@ li {
 }
 
 .gtime {
-  background-image: url("../media/png/gtime.png");
+  background-image: url("../media/png/scrapper.png");
 }
 
 .weather {
-  background-image: url("../media/png/weather.png");
+  background-image: url("../media/png/3dprinter.png");
 }
 
-.conference {
-  background-image: url("../media/png/conference.png");
 }
 
-.katchy {
-  background-image: url("../media/png/katchy.png");
-}
+
 
 .project-stacks {
   display: flex;
