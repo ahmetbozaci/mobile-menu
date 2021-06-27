@@ -27,7 +27,8 @@ header {
   color: white;
 }
 
-#desktop-nav, #desktop-nav ul {
+#desktop-nav,
+#desktop-nav ul {
   display: none;
 }
 
@@ -252,9 +253,6 @@ li {
 .weather {
   background-image: url("../media/png/3dprinter.png");
 }
-
-
-
 
 .project-stacks {
   display: flex;
